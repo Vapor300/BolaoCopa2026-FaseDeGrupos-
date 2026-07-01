@@ -142,3 +142,5 @@ Abas disponíveis:
 - Realtime protegido por RLS.
 - Funções internas sem acesso anônimo.
 - Segredos e chaves de serviço nunca expostos ao cliente.
+
+<img width="1920" height="980" alt="TelaIni" src="https://github.com/user-attachments/assets/633ba36b-235b-4468-9e3f-d9d43463af9e" />
